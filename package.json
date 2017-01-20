@@ -1,0 +1,25 @@
+{
+  "name": "happychain",
+  "version": "1.0.1",
+  "description": "The missing blockchain API for Ethereum http://happycha.in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy-chain/express-happychain.git"
+  },
+  "keywords": [
+    "happychain",
+    "blockchain",
+    "Ethereum",
+    "api"
+  ],
+  "author": "Tim Siwula <tcsiwula@gmail.com> (http://itimmy.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happy-chain/express-happychain/issues"
+  },
+  "homepage": "https://github.com/happy-chain/express-happychain#readme"
+}
