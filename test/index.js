@@ -1,3 +1,3 @@
 var happychain = require('happychain');
 
-hapnopychain.getBalance();
+happychain.getBalance();
