@@ -2,6 +2,7 @@
 Create a HappyChain HTTP server with Express.
 
 # Example Node Server w/ HappyChain
+npm url: https://www.npmjs.com/package/happychain
 
 ### Getting Started
 
