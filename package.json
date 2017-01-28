@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/happy-chain/express-happychain.git"
   },
+  "engines": {
+    "node": ">=4.2.4"
+  },
   "keywords": [
     "happychain",
     "blockchain",
