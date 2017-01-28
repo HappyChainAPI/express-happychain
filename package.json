@@ -4,8 +4,6 @@
   "description": "The missing blockchain API for Ethereum http://happycha.in",
   "main": "index.js",
   "scripts": {
-    "compile": "babel --presets es2015,stage-0 -d lib/ src/",
-    "prepublish": "npm run compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -29,14 +27,5 @@
   "homepage": "https://github.com/happy-chain/express-happychain#readme",
   "dependencies": {
     "lodash": "^4.17.4"
-  },
-  "peerDependencies": {
-    "babel-polyfill": "^6.22.0"
-  },
-  "devDependencies": {
-    "babel-cli": "^6.22.2",
-    "babel-polyfill": "^6.22.0",
-    "babel-preset-es2015": "^6.22.0",
-    "babel-preset-stage-0": "^6.22.0"
   }
 }
