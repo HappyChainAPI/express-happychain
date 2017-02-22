@@ -1,8 +1,5 @@
-# express-happychain
-Create a HappyChain HTTP server with Express.
-
-# Example Node Server w/ HappyChain
-npm url: https://www.npmjs.com/package/happychain
+# Happycha.in
+Connecting to the [HappyCha.in API](https://www.HappyCha.in) has never been easier!
 
 ### Getting Started
 
