@@ -1,6 +1,6 @@
 {
   "name": "happychain",
-  "version": "3.3.3",
+  "version": "3.3.4",
   "description": "The missing blockchain API for Ethereum http://happycha.in",
   "main": "index.js",
   "scripts": {
