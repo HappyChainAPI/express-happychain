@@ -1,6 +1,6 @@
 {
   "name": "happychain",
-  "version": "3.3.7",
+  "version": "3.3.8",
   "description": "HappyChain is a payment api for Ethereum applications. The missing blockchain API for Ethereum http://happycha.in",
   "main": "happypay.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "processor",
     "api"
   ],
-  "author": "Tim Siwula <tcsiwula@gmail.com> (http://itimmy.com), Arjun Bhuptani <arjunbhuptani@gmail.com> (http://happycha.in)",
+  "author": "Tim Siwula <tcsiwula@gmail.com> (http://itimmy.com), Arjun Bhuptani <arjunbhuptani@gmail.com> (http://happycha.in), Zane Witherspoon <zane.witherspoon@gmail.com> (http://happycha.in)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/happy-chain/express-happychain/issues"
