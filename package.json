@@ -1,6 +1,6 @@
 {
   "name": "happychain",
-  "version": "3.3.5",
+  "version": "3.3.7",
   "description": "HappyChain is a payment api for Ethereum applications. The missing blockchain API for Ethereum http://happycha.in",
   "main": "happypay.js",
   "scripts": {
